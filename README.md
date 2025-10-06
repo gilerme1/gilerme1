@@ -66,9 +66,11 @@ Proyecto académico centrado en **buenas prácticas de arquitectura** y **testin
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
+  <!-- Stats generales incluyendo repos privados -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gilerme1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Guillermo's GitHub Stats" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilerme1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=csharp,java&cache_bust=3" alt="Top Langs" />
+  <!-- Lenguajes principales excluyendo repos antiguos de C# y Java -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilerme1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=old-projects,csharp-labs,java-legacy" alt="Top Langs" />
 </p>
 
 
