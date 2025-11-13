@@ -6,10 +6,16 @@
 
 ## 🚀 Sobre mí
 
-Soy **Tester Profesional de Software (PL2024)** con experiencia en **testing manual, funcional y de APIs REST**.  
-Actualmente me especializo en **desarrollo backend con NestJS**, aplicando buenas prácticas de **arquitectura limpia, validación, seguridad y documentación de APIs**.  
+Soy **Tester Profesional de Software (PL2024)** con experiencia en **testing manual, funcional y de APIs REST**.
 
-Mi enfoque combina **calidad y desarrollo**, garantizando que las aplicaciones sean **robustas, escalables y confiables** desde el testing hasta la implementación.
+Actualmente me especializo en **desarrollo backend con NestJS**, aplicando buenas prácticas de **arquitectura limpia, validación, seguridad y documentación de APIs (Swagger)**.
+
+Mi enfoque combina **calidad y desarrollo**, garantizando que las aplicaciones sean **robustas, escalables y confiables** desde el testing hasta la implementación. Busco formar parte de un equipo donde pueda integrar ambos mundos para construir software de alto valor.
+
+✨ **Mi valor diferencial:**
+* 🎯 **Orientado a resultados:** Transformo requisitos de negocio en soluciones técnicas medibles y efectivas.
+* ⚡ **Proactivo:** Anticipo problemas de calidad (QA) y busco mejoras de desarrollo antes de que afecten al usuario final.
+* 💬 **Comunicación clara:** traduzco los requisitos del negocio en tareas técnicas concretas.
 
 ---
 
